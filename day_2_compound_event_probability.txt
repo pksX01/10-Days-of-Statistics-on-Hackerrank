@@ -1,0 +1,20 @@
+Probability of getting Red balls from Urn X = 4/7
+Probability of getting Red balls from Urn Y = 5/9
+Probability of getting Red balls from Urn Z = 4/8 = 1/2
+
+Probability of getting Black balls from Urn X = 3/7
+Probability of getting Black balls from Urn Y = 4/9
+Probability of getting Black balls from Urn Z = 4/8 = 1/2
+
+There are 3 possible ways to get 2 Red balls and 1 Black ball after drawing 1 ball from each urn.
+1. Red ball from Urn X, Red ball from Urn Y and Black ball from Urn Z
+2. Red ball from Urn X, Black ball from Urn Y and Red ball from Urn Z
+3. Black ball from Urn X, Red ball from Urn Y and Red ball from Urn Z
+
+Hence, 
+P(2 Red, 1 Black)
+= P(Red Red Black) + P(Red Black Red) + P(Black Red Red)
+= (4/7 * 5/9 * 1/2) + (4/7 * 4/9 * 1/2) + (3/7 * 5/9 * 1/2)
+= 20/126 + 16/126 + 15/126 
+= 51/126 
+= 17/42
