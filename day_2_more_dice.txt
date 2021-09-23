@@ -1,0 +1,13 @@
+Event: 2 fair six sided dice are tossed once
+
+Possible outcomes when the sum of numbers on face of both dices is 6 and both numbers are differnt:
+(1,5), (2,4), (4,2), (5,1)
+
+So, number of favourable outcomes = 4
+and total number of outcomes in sample space = 6 * 6 = 36
+
+Hence,
+P(sum of numbers on face of both dices is 6 and both numbers are differnt) 
+    = Number of favourable outcomes / Total number of outcomes
+    = 4/36
+    = 1/9
