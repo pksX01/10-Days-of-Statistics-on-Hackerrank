@@ -1,6 +1,6 @@
 Posssible events:
 1. First child is boy and second is girl
-2. Fisrt child is girl and second is boy
+2. First child is girl and second is boy
 3. Both children are boys
 
 Hence, P(Both children are boys) = 1/3
